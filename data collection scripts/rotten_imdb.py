@@ -26,7 +26,7 @@ def get_ratings(title, api_key):
         return 'N/A', 'N/A'
 
 # Your OMDb API key
-api_key = '514b5453'
+api_key = '********'
 
 # Load the Excel file with the existing titles
 input_file = 'moistmeter.xlsx'  # Replace with your actual file name
